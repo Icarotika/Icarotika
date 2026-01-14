@@ -1,9 +1,9 @@
 # ✨ Sobre mim:
-Opa! eu sou o Ícaro, mas podem me chamar de Icarotika.
-Sou um Dev Front-end júnior, mas que está preparado para encarar qualquer desafio!
-Atualmente aprendendo a criar jogos web para um dia, criar jogos relativamente grandes.
-Acreditaria se eu falasse que sou o atual Campeão Paulista de Judô do Estado de São Paulo?
-Esse sou eu, apenas um judoca programador de passagem.
+Opa! eu sou o Ícaro, mas podem me chamar de Icarotika. <br>
+Sou um Dev Front-end júnior, mas que está preparado para encarar qualquer desafio! <br>
+Atualmente aprendendo a criar jogos web para um dia, criar jogos relativamente grandes. <br>
+Acreditaria se eu falasse que sou o atual Campeão Paulista de Judô do Estado de São Paulo? <br>
+Esse sou eu, apenas um judoca programador de passagem. <br>
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icarow_romao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ícaro-romão-312512342) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@icarotika) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tikaucaro@gmail.com) 
@@ -13,5 +13,3 @@ Esse sou eu, apenas um judoca programador de passagem.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Icarotika&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
